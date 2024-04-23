@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    
+}
+body{
+    background-image: url(f2.jpg);
+    
+}
+img{
+    background-size: cover;
+    background-position: center;
+}
+.m{
+    text-decoration: double;
+    text-decoration-color: brown;
+}

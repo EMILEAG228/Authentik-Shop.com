@@ -1,0 +1,28 @@
+body{
+    background-image: url(12.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.text{
+padding-right: 2%;
+color: rgb(32, 16, 255);
+float: right;
+}
+.l{
+    text-align: center;
+    text-decoration: double;
+    text-decoration: none;
+}
+.e{
+text-align: center;
+text-decoration: dotted;
+text-transform: none;
+}
+.i{
+    color: rgb(0, 0, 0);
+}
+.a{
+    text-align: center;
+
+
+}

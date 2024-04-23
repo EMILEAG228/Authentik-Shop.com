@@ -1,0 +1,15 @@
+.b{
+   background-image: url(0.jpg);
+}
+.body{
+    text-align: center;
+}
+.m{
+    text-align: center;
+    margin-top: -15%;
+}
+.b{
+    color: rgb(0, 0, 255);
+    float: right;
+    background-color: aliceblue;
+}
