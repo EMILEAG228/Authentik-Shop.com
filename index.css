@@ -1,0 +1,53 @@
+/* Style de base pour la navigation */
+nav {
+    background-color: #333; /* Couleur de fond */
+    color: #fff; /* Couleur du texte */
+    padding: 10px 0; /* Marge interne */
+    text-align: center; /* Aligner le texte au centre */
+}
+
+/* Style pour la liste non ordonnée */
+ul {
+    list-style: none; /* Supprimer les puces par défaut */
+    margin: 0; /* Supprimer la marge par défaut */
+    padding: 0; /* Supprimer le padding par défaut */
+}
+
+/* Style pour les éléments de la liste (liens) */
+li {
+    display: inline-block; /* Afficher les éléments en ligne */
+    margin-right: 20px; /* Marge entre les liens */
+}
+
+/* Style pour les liens (a) */
+a {
+    color: #fff; /* Couleur du texte */
+    text-decoration: none; /* Supprimer le soulignement par défaut */
+    font-weight: bold; /* Gras */
+}
+
+/* Style pour le lien actif (en survol) */
+a:hover {
+    color: #007bff; /* Couleur du texte en survol */
+}
+
+/* Style responsive pour les petits écrans */
+@media (max-width: 768px) {
+    nav {
+        text-align: left; /* Aligner le texte à gauche sur les petits écrans */
+    }
+
+    ul {
+        margin-bottom: 10px; /* Ajouter une marge inférieure sur les petits écrans */
+    }
+
+    li {
+        margin-right: 10px; /* Réduire la marge entre les liens sur les petits écrans */
+    }}
+body{
+    background-image: url(shop.jpg);  
+    background-size: cover;
+    }
+h1{
+    color: #2fff00;
+}
